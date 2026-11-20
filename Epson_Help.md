@@ -1,4 +1,4 @@
-# Article 52: How to Fix Epson Printer Wi-Fi WPA3 Compatibility Error
+#How to Fix Epson Printer Wi-Fi WPA3 Compatibility Error
 
 An Epson printer may fail to connect to a wireless network when the router uses WPA3 security and the printer does not support that security mode. WPA3 is a modern Wi-Fi security standard designed to improve wireless network protection. However, not every Epson model supports every router security configuration.
 
