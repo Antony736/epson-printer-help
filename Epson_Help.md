@@ -1,4 +1,4 @@
-#How to Fix Epson Printer Wi-Fi WPA3 Compatibility Error
+# How to Fix Epson Printer Wi-Fi WPA3 Compatibility Error
 
 An Epson printer may fail to connect to a wireless network when the router uses WPA3 security and the printer does not support that security mode. WPA3 is a modern Wi-Fi security standard designed to improve wireless network protection. However, not every Epson model supports every router security configuration.
 
@@ -225,7 +225,7 @@ An Epson printer Wi-Fi WPA3 compatibility error can occur when the printer and r
 
 If the problem continues, check the firmware, frequency band, network connection report, and computer printer settings. Always use security settings supported by both devices and avoid weakening your network unnecessarily.
 
-# Article 53: How to Fix Epson Printer Wi-Fi Security Key Error
+# How to Fix Epson Printer Wi-Fi Security Key Error
 
 An Epson printer Wi-Fi security key error usually appears when the printer cannot authenticate with the wireless network using the entered Wi-Fi password. During wireless setup, the printer asks for a security key or network password. If the entered information does not match the router's wireless credentials, the connection may fail.
 
@@ -450,7 +450,7 @@ An Epson printer Wi-Fi security key error is often caused by incorrect network c
 
 If the error continues, remove the old wireless configuration, check the router's network settings, restart the devices, and review the printer's network report. Once the printer connects successfully, print a test page to confirm that wireless communication is working.
 
-# Article 54: How to Fix Epson Printer Wi-Fi Password Authentication Error
+# How to Fix Epson Printer Wi-Fi Password Authentication Error
 
 An Epson printer Wi-Fi password authentication error occurs when the printer cannot complete the wireless network authentication process. Even when the printer detects the Wi-Fi network, it may fail to establish a connection because the router does not accept the connection request.
 
